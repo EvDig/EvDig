@@ -1,1 +1,1 @@
-Learning how to code on python
+Junior data analyst
